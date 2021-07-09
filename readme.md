@@ -3,7 +3,7 @@
 
 ----
 
-Para essa atividade, foi utilizada a arquitetura MVC, onde as aplicações foram separadas em 3 camadas: Routes, Controlles e Models. 
+Para essa atividade, foi utilizada a arquitetura MVC, onde as aplicações foram separadas em 3 camadas: Routes, Controllers e Models
 
 ---
 📁 Os pacotes e dependencias utulizados para construção dessa API foram: 
