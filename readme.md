@@ -1,9 +1,34 @@
-DEMANDAS DE NEGÓCIO 
 
-[X] Quero uma rota principal pra visualizar a apresentação do projeto
-[X]Quero visualizar todos os contatinhos
-[X]Quero visualizar os contatinhos por nome
-[X]Quero visualizar os contatinhos por id
-[]Quero adicionar novo contatinho
-[]Quero deletar contatinhos
+### **API - Post/Delete** 🖥️🖱️
+
+----
+
+Para essa atividade, foi utilizada a arquitetura MVC, onde as aplicações foram separadas em 3 camadas: Routes, Controlles e Models. 
+
+---
+📁 Os pacotes e dependencias utulizados para construção dessa API foram: 
+
+* Nodemon;
+* Express;
+* Package.json;
+* package-lockjson;
+* node modules;
+* .gitignore
+----
+
+📝 As demandas de negócio solicitadas foram: 
+ 
+
+
+✔️ Rota principal para visualizar a apresentação do projeto;
+
+✔️ Visualizar todos os contatos;
+
+✔️ Visualizar os contatos por nome;
+
+✔️ visualizar os contatos por id;
+
+✔️ Adicionar novo contato;
+
+[✔️ Deletar contato. 
 
